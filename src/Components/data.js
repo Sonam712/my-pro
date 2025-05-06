@@ -1,0 +1,58 @@
+export const people = [
+  {
+      name: "Marie Curie",
+      profession: "chemist",
+      accomplishment: "pioneering research on radioactivity",
+      time: "20-25",
+      price: "$ 100 FOR TWO",
+      coupon: "jhkjh",
+      imageUrl: "/static/media/wordlist-4.767754600a9ce7e3b60a.jpg",
+  },
+  {
+      name: "Dmitri Mendeleev",
+      profession: "chemist",
+      accomplishment: "creating the periodic table",
+      time: "20-25",
+      price: "$ 100 FOR TWO",
+      coupon: "jhkjh",
+      imageUrl: "/static/media/wordlist-4.767754600a9ce7e3b60a.jpg",
+  },
+  {
+      name: "Linus Pauling",
+      profession: "chemist",
+      accomplishment: "work in quantum chemistry and biochemistry",
+      time: "20-25",
+      price: "$ 100 FOR TWO",
+      coupon: "jhkjh",
+      imageUrl: "/static/media/wordlist-4.767754600a9ce7e3b60a.jpg",
+  },
+  {
+      name: "Rosalind Franklin",
+      profession: "chemist",
+      accomplishment: "contributions to the discovery of DNA structure",
+      time: "25-30",
+      price: "$ 100 FOR TWO",
+      coupon: "jhkjh",
+      imageUrl: "/static/media/wordlist-4.767754600a9ce7e3b60a.jpg",
+      
+  },
+  {
+      name: "Ahmed Zewail",
+      profession: "chemist",
+      accomplishment: "femtochemistry",
+      time: "20-25",
+      price: "$ 100 FOR TWO",
+      coupon: "hjyjhkjh",
+      imageUrl: "/static/media/wordlist-4.767754600a9ce7e3b60a.jpg",
+  },
+  {
+      name: "Ahmed Zewail",
+      profession: "chemist",
+      accomplishment: "femtochemistry",
+      time: "20-25",
+      price: "$ 100 FOR TWO",
+      coupon: "hjyjhkjh",
+      imageUrl: "/static/media/wordlist-4.767754600a9ce7e3b60a.jpg",
+},
+  
+];
